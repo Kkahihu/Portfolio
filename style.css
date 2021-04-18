@@ -33,6 +33,7 @@ div.more {
 h3 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
+    text-decoration: underline;
 }
 
 li {
